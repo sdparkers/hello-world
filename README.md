@@ -1,2 +1,2 @@
 # hello-world
-Just a retired guy wantingn to work on some Smartthings code.
+Just a retired guy wanting to work on some Smartthings code.
